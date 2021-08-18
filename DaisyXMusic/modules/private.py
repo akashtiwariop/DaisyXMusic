@@ -31,15 +31,15 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "⚜𝔸𝕕𝕕 𝕋𝕙𝕚𝕤 𝔹𝕠𝕥 𝕋𝕠 𝕐𝕠𝕦𝕣 𝔾𝕣𝕠𝕦𝕡⚜", url=f"https://t.me/Maxwin_Vc_Bot?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "🔥𝕆𝕎ℕ𝔼ℝ🥀", url=f"https://t.me/Anurag_1711"), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "𝔸𝔹𝕆𝕌𝕋 𝕆𝕎ℕ𝔼ℝ💔", url=f"https://t.me/ABOUTMAXWiN")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+                        "🖤𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔾𝕣𝕠𝕦𝕡🖤", url=f"https://TheDenominators_xD")
                 ]
             ]
         ),
@@ -54,7 +54,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Support Chat", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🖤𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔾𝕣𝕠𝕦𝕡🖤", url=f"https://t.me/TheDenominators_xD"
                     )
                 ]
             ]
